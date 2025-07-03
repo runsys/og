@@ -1,2 +1,10 @@
 # tlang
-t language
+og is world describle language.
+
+
+
+
+
+
+
+
