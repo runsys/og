@@ -1,4 +1,6 @@
-# The Tengo Language
+# The Og Language
+
+Oglang is improve from tengo. But it's syntax and idea over all diffrent tengo.It's orient object native program language.
 
 [![GoDoc](https://godoc.org/github.com/d5/tengo/v2?status.svg)](https://godoc.org/github.com/d5/tengo/v2)
 ![test](https://github.com/d5/tengo/workflows/test/badge.svg)
